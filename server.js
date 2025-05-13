@@ -19,5 +19,5 @@ app.post("/api/check-status", (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`✅ السيرفر شغال على الرابط: http://localhost:${PORT}`);
+  console.log(`✅ السيرفر شغال على الرابط: https://kkl-pi1k.onrender.com:${PORT}`);
 });
